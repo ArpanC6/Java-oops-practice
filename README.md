@@ -42,4 +42,25 @@ Name, Roll, and Marks printed successfully.
 ### Output:
 Student details printed correctly using different constructors.
 
+## Day 03: Inheritance & Method Overriding
 
+## Concepts Covered:
+- Inheritance using the `extends` keyword
+- Parent class and child class
+- Method overriding
+- Code reusability
+
+## Example:
+
+- Created a `Person` parent class
+- Created a `Student` child class that extends `Person`
+- Overrode a method in the child class to display additional details
+
+## Key Learnings:
+
+- Inheritance helps in reusing existing code
+- Child classes can access parent class methods and variables
+- Method overriding allows a child class to provide its own implementation
+
+## Output:
+Person and student details printed successfully using inheritance.
