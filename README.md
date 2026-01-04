@@ -1,6 +1,6 @@
 # Java OOPS Practice
 
-This repository contains my step-by-step Java OOPS learning journey.  
+This repository contains my step by step Java OOPS learning journey.  
 Each folder represents daily practice with clear concepts and examples.
 
 
@@ -112,5 +112,3 @@ Student details printed successfully using getter and setter methods.
 
 ### Output:
 Abstract method implementation executed successfully through child class object.
-**Goal:**  
-Build a strong foundation in Java OOPS with clean code, best practices, and clear understanding.
