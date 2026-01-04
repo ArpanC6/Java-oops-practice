@@ -1,6 +1,6 @@
 # Java OOPS Practice
 
-This repository contains my step-by-step Java OOPS learning journey.
+This repository contains my step-by-step Java OOPS learning journey.  
 Each folder represents daily practice with clear concepts and examples.
 
 
@@ -42,25 +42,50 @@ Name, Roll, and Marks printed successfully.
 ### Output:
 Student details printed correctly using different constructors.
 
+
 ## Day 03: Inheritance & Method Overriding
 
-## Concepts Covered:
+### Concepts Covered:
 - Inheritance using the `extends` keyword
 - Parent class and child class
 - Method overriding
 - Code reusability
 
-## Example:
-
+### Example:
 - Created a `Person` parent class
 - Created a `Student` child class that extends `Person`
 - Overrode a method in the child class to display additional details
 
-## Key Learnings:
-
+### Key Learnings:
 - Inheritance helps in reusing existing code
 - Child classes can access parent class methods and variables
 - Method overriding allows a child class to provide its own implementation
 
-## Output:
+### Output:
 Person and student details printed successfully using inheritance.
+
+
+## Day 04: Encapsulation
+
+### Concepts Covered:
+- Encapsulation and data hiding
+- Using `private` access modifier
+- Controlled access using getters and setters
+- Protecting data from direct access
+
+### Example:
+- Created a `Student` class with private variables
+- Used getter and setter methods to access and modify data
+- Ensured data security by restricting direct access
+
+### Key Learnings:
+- Encapsulation improves data security
+- Private variables cannot be accessed directly outside the class
+- Getters and setters provide controlled access to data
+- Makes code more maintainable and readable
+
+### Output:
+Student details printed successfully using getter and setter methods.
+
+**Goal:**  
+Build a strong foundation in Java OOPS with clean code, best practices, and clear understanding.
