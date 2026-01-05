@@ -112,3 +112,31 @@ Student details printed successfully using getter and setter methods.
 
 ### Output:
 Abstract method implementation executed successfully through child class object.
+
+## Day 06: Interface & Multiple Inheritance
+
+### Concepts Covered:
+- Interface in Java
+- Difference between Interface and Abstract Class
+- `implements` keyword
+- Multiple inheritance using interface
+- 100% abstraction using interface
+- Clean OOPS structure
+
+### Example:
+- Created an interface `Worker`
+- Declared abstract methods inside the interface
+- Created a `Student` class that implements `Worker`
+- Implemented all interface methods in the class
+- Demonstrated multiple inheritance using more than one interface
+
+### Key Learnings:
+- Interface supports 100% abstraction
+- All methods in an interface are public and abstract by default
+- A class can implement multiple interfaces
+- `implements` keyword is used with interfaces
+- Multiple inheritance is possible only through interfaces in Java
+- Interfaces define **what to do**, not **how to do**
+
+### Output:
+Interface methods executed successfully through implementing class object.
