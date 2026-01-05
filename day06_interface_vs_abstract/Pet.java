@@ -1,0 +1,4 @@
+interface Pet {
+
+    void play ();
+}
