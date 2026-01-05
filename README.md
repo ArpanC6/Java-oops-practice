@@ -1,6 +1,6 @@
 # Java OOPS Practice
 
-This repository contains my step-by-step Java OOPS learning journey.  
+This repository contains my step by step Java OOPS learning journey.  
 Each folder represents daily practice with clear concepts and examples.
 
 
@@ -84,8 +84,31 @@ Person and student details printed successfully using inheritance.
 - Getters and setters provide controlled access to data
 - Makes code more maintainable and readable
 
-### Output:
+### Output: 
 Student details printed successfully using getter and setter methods.
 
-**Goal:**  
-Build a strong foundation in Java OOPS with clean code, best practices, and clear understanding.
+## Day 05: Abstraction
+
+### Concepts Covered:
+- Abstraction in Java
+- Abstract class
+- Abstract methods
+- Method implementation in child class
+- Partial abstraction using abstract class
+
+### Example:
+- Created an abstract class `Person`
+- Declared an abstract method `work()`
+- Created a `Student` class that extends `Person`
+- Implemented the abstract method in the child class
+- Used normal methods inside an abstract class
+
+### Key Learnings:
+- Abstract classes cannot be instantiated
+- Abstract methods have no body
+- Child classes must implement all abstract methods
+- Abstraction helps to hide implementation details
+- Improves code structure and design
+
+### Output:
+Abstract method implementation executed successfully through child class object.
