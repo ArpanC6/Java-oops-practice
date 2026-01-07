@@ -168,3 +168,34 @@ Interface methods executed successfully through implementing class object.
 
 ### Output:
 Correct method executed based on object type demonstrating polymorphism.
+
+## Day 08: static, final & super Keyword
+
+### Concepts Covered:
+- `static` keyword in Java
+- `final` keyword in Java
+- `super` keyword
+- Static variables and methods
+- Final variables
+- Calling parent class constructor and methods
+- Relationship between parent and child class
+
+### Example:
+- Created a `Person` parent class
+- Used a `static` variable to store common data shared by all objects
+- Created a `Student` child class that extends `Person`
+- Used `final` keyword to make a variable constant
+- Used `super()` to call parent class constructor
+- Used `super.method()` to call parent class method
+
+### Key Learnings:
+- `static` members belong to the class, not to individual objects
+- All objects share the same static variable
+- `final` variables cannot be changed once initialized
+- `super` keyword is used to refer to parent class
+- `super()` calls the parent class constructor
+- `super.method()` calls the parent class method
+- These keywords help in writing clean and structured OOPS code
+
+### Output:
+Program executed successfully showing the use of static, final, and super keywords.
