@@ -140,3 +140,31 @@ Abstract method implementation executed successfully through child class object.
 
 ### Output:
 Interface methods executed successfully through implementing class object.
+
+## Day 07: Polymorphism
+
+### Concepts Covered:
+- Polymorphism in Java
+- Types of Polymorphism
+  - Compile-time Polymorphism
+  - Runtime Polymorphism
+- Method Overloading
+- Method Overriding
+- Upcasting and Dynamic Method Dispatch
+
+### Example:
+- Created a `Person` parent class with a `work()` method
+- Created a `Student` child class that overrides the `work()` method
+- Demonstrated runtime polymorphism using parent class reference
+- Created multiple methods with same name but different parameters to show method overloading
+
+### Key Learnings:
+- Polymorphism means one name, many forms
+- Method overloading is compile-time polymorphism
+- Method overriding is runtime polymorphism
+- Parent class reference can refer to child class object
+- The method call is resolved at runtime based on object type
+- Polymorphism improves flexibility and scalability of code
+
+### Output:
+Correct method executed based on object type demonstrating polymorphism.
