@@ -199,3 +199,31 @@ Correct method executed based on object type demonstrating polymorphism.
 
 ### Output:
 Program executed successfully showing the use of static, final, and super keywords.
+
+## Day 09: Exception Handling
+
+### Concepts Covered:
+- Exception in Java
+- Types of exceptions
+- `try` block
+- `catch` block
+- Multiple catch blocks
+- `finally` block
+- Runtime exceptions
+
+### Example:
+- Performed a division operation
+- Handled `ArithmeticException` using try-catch
+- Used multiple catch blocks for better error handling
+- Used `finally` block to execute important code
+
+### Key Learnings:
+- Exceptions prevent program from crashing
+- `try` block contains risky code
+- `catch` block handles exceptions
+- Multiple catch blocks handle different exceptions
+- `finally` block always executes
+- Exception handling makes programs robust and reliable
+
+### Output:
+Exception handled successfully without program crash.
