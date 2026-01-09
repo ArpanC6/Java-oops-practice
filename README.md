@@ -227,3 +227,32 @@ Program executed successfully showing the use of static, final, and super keywor
 
 ### Output:
 Exception handled successfully without program crash.
+
+## Day 10: Custom Exception
+
+### Concepts Covered:
+- Custom exception in Java
+- Creating user-defined exceptions
+- `Exception` class
+- `throw` keyword
+- `throws` keyword
+- Handling custom exceptions using try-catch
+
+### Example:
+- Created a custom exception class `InvalidAgeException`
+- Extended the `Exception` class
+- Used constructor to pass custom error message
+- Used `throw` keyword to explicitly throw exception
+- Used `throws` keyword to declare exception
+- Handled custom exception using try-catch block
+
+### Key Learnings:
+- Java allows creating user-defined exceptions
+- Custom exceptions help in handling application-specific errors
+- `throw` is used to throw an exception manually
+- `throws` is used to declare exceptions in method signature
+- Custom exceptions improve code clarity and error handling
+- Program continues execution after exception handling
+
+### Output:
+Custom exception handled successfully without crashing the program.
