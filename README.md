@@ -256,3 +256,31 @@ Exception handled successfully without program crash.
 
 ### Output:
 Custom exception handled successfully without crashing the program.
+
+## Day 11: File Handling
+
+### Concepts Covered:
+- File handling in Java
+- Writing data to a file
+- Reading data from a file
+- `FileWriter` class
+- `FileReader` class
+- Handling file-related exceptions
+- `IOException`
+
+### Example:
+- Created a text file using `FileWriter`
+- Wrote text data into the file
+- Read the file content using `FileReader`
+- Used try-catch blocks to handle file exceptions
+
+### Key Learnings:
+- Java supports file handling through `java.io` package
+- `FileWriter` is used to write data into a file
+- `FileReader` is used to read data from a file
+- Files are created automatically if they do not exist
+- File operations can throw `IOException`
+- File handling is important for data storage and retrieval
+
+### Output:
+File created successfully, data written and read without errors.
