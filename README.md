@@ -284,3 +284,46 @@ Custom exception handled successfully without crashing the program.
 
 ### Output:
 File created successfully, data written and read without errors.
+
+## Day 12: Packages & Access Modifiers
+
+### Concepts Covered:
+- Package in Java
+- Folder structure using packages
+- Creating custom packages
+- `package` keyword
+- `import` statement
+- Code organization using packages
+- Access modifiers in Java
+  - `public`
+  - `private`
+  - `protected`
+- Package-level access control
+
+### Example:
+- Created a custom package `com.school.student`
+- Created a `Student` class inside the student package
+- Declared variables with different access modifiers:
+  - `public String name`
+  - `private int roll`
+  - `protected int marks`
+- Created another package `com.school.main`
+- Created `Main` class inside main package
+- Imported `Student` class using `import` statement
+- Created `Student` object in `Main` class
+- Accessed only allowed members based on access modifier rules
+- Demonstrated how packages help in structuring large projects
+
+### Key Learnings:
+- Package is used to group related classes
+- Package name should match the folder structure
+- `package` statement must be the first line of a Java file
+- `import` is used to access classes from other packages
+- `private` members are accessible only within the same class
+- `protected` members are accessible within the same package or subclass
+- `public` members are accessible from anywhere
+- Packages improve code organization, readability, and maintainability
+- Proper package structure is important for real-world and enterprise projects
+
+### Output:
+Student details printed successfully using class imported from another package.
