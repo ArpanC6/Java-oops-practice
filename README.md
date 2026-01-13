@@ -327,3 +327,38 @@ File created successfully, data written and read without errors.
 
 ### Output:
 Student details printed successfully using class imported from another package.
+
+## Day 13: Multithreading Basics
+
+### Concepts Covered:
+- Multithreading in Java
+- Process vs Thread
+- Main thread
+- Creating thread using `Thread` class
+- Creating thread using `Runnable` interface
+- `start()` vs `run()` method
+- Thread life cycle (basic idea)
+- Concurrent execution
+
+### Example:
+- Created a thread by extending the `Thread` class
+- Overrode the `run()` method to define thread task
+- Created another thread using `Runnable` interface
+- Passed `Runnable` object to `Thread` constructor
+- Started threads using `start()` method
+- Observed parallel execution of multiple threads
+- Printed thread names to understand execution flow
+
+### Key Learnings:
+- Multithreading allows multiple tasks to run simultaneously
+- A process can contain multiple threads
+- `main()` itself runs inside the main thread
+- `run()` contains thread logic, but `start()` creates a new thread
+- Calling `run()` directly does NOT create a new thread
+- `Thread` class and `Runnable` interface are two ways to create threads
+- Using `Runnable` is better as it supports multiple inheritance
+- Multithreading improves performance and resource utilization
+- Threads are heavily used in real-world applications like servers and games
+
+### Output:
+Multiple threads executed concurrently showing parallel task execution.
