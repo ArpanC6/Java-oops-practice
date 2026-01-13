@@ -362,3 +362,61 @@ Student details printed successfully using class imported from another package.
 
 ### Output:
 Multiple threads executed concurrently showing parallel task execution.
+
+## Day 14: Collections Framework (List, Set, Map)
+
+### Concepts Covered:
+- Java Collections Framework
+- Difference between Array and Collection
+- List Interface
+- Set Interface
+- Map Interface
+- ArrayList
+- HashSet
+- HashMap
+- Iterating collections using loop
+
+
+### List Interface (ArrayList)
+
+- Allows duplicate elements
+- Maintains insertion order
+- Index-based access
+
+### Example:
+- Stored student names using ArrayList
+- Printed elements using loop
+
+
+### Set Interface (HashSet)
+
+- Does not allow duplicate elements
+- No guaranteed order
+
+### Example:
+- Stored unique numbers using HashSet
+- Demonstrated duplicate removal
+
+
+### Map Interface (HashMap)
+
+- Stores data in key-value pairs
+- Keys are unique
+- Values can be duplicated
+
+### Example:
+- Stored roll number as key and name as value
+- Retrieved data using keys
+
+
+### Key Learnings:
+- Collections are dynamic (size can grow/shrink)
+- ArrayList is best when duplicates and order matter
+- HashSet is used when uniqueness is required
+- HashMap is used for fast key-value access
+- Collections reduce coding complexity
+- Widely used in real-world Java applications
+
+
+### Output:
+All collection operations executed successfully.
