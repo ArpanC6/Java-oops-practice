@@ -420,3 +420,31 @@ Multiple threads executed concurrently showing parallel task execution.
 
 ### Output:
 All collection operations executed successfully.
+
+## Day 15: Generics & Iterator
+
+### Concepts Covered:
+- Generics in Java
+- Type safety
+- Generic methods
+- Generic classes
+- Iterator interface
+- Iterating collections safely
+
+### Example:
+- Created generic method to print any data type
+- Created a generic class using type parameter
+- Used ArrayList with Iterator
+- Traversed collection using Iterator
+
+### Key Learnings:
+- Generics provide compile-time type safety
+- Generics reduce ClassCastException
+- Generic classes can work with any data type
+- Iterator is used to traverse collections safely
+- Iterator supports hasNext() and next()
+- Iterator is useful when modifying collections during traversal
+- Generics and Iterator are heavily used in Java frameworks
+
+### Output:
+Generic methods, generic classes, and iterator traversal executed successfully.
