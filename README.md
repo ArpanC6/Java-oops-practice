@@ -448,3 +448,28 @@ All collection operations executed successfully.
 
 ### Output:
 Generic methods, generic classes, and iterator traversal executed successfully.
+
+## Day 16: Comparable & Comparator
+
+### Concepts Covered:
+- Comparable interface
+- Comparator interface
+- Natural sorting
+- Custom sorting logic
+- Collections.sort()
+
+### Example:
+- Created Student class implementing Comparable
+- Sorted students by ID using compareTo()
+- Used Comparator to sort by Name and Marks
+- Demonstrated multiple sorting strategies
+
+### Key Learnings:
+- Comparable provides default sorting
+- Comparator provides flexible custom sorting
+- compareTo() is inside the class
+- compare() is outside the class
+- Used in real-world collection sorting
+
+### Output:
+Student objects sorted successfully using Comparable and Comparator.
