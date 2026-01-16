@@ -473,3 +473,26 @@ Generic methods, generic classes, and iterator traversal executed successfully.
 
 ### Output:
 Student objects sorted successfully using Comparable and Comparator.
+
+## Day 17: Lambda Expression & Functional Interface
+
+### Concepts Covered:
+- Functional Interface
+- @FunctionalInterface annotation
+- Lambda Expression
+- Anonymous function
+- Cleaner & shorter syntax
+
+### What I Did:
+- Created a functional interface with a single abstract method
+- Implemented the interface using lambda expression
+- Executed method without creating a separate class
+
+### Key Learnings:
+- Functional interface contains only one abstract method
+- Lambda expression removes boilerplate code
+- Lambda improves readability and performance
+- Used mostly in Java 8+ features (Streams, Collections)
+
+### Output:
+Hello from Lambda Expression!
