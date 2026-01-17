@@ -496,3 +496,31 @@ Student objects sorted successfully using Comparable and Comparator.
 
 ### Output:
 Hello from Lambda Expression!
+
+## Day 18: Java Stream API
+
+### Concepts Covered:
+- Stream API
+- filter()
+- map()
+- forEach()
+- sorted()
+- count()
+
+### What I Did:
+- Created a list of integers
+- Used stream to filter even numbers
+- Transformed data using map()
+- Sorted elements using sorted()
+- Counted elements based on condition
+
+### Key Learnings:
+- Stream works with collections
+- Stream does not modify original data
+- filter is used for condition checking
+- map is used for transformation
+- forEach is used for iteration
+- Stream makes code clean and readable
+
+### Output:
+Even numbers, squares, sorted list and count printed successfully.
