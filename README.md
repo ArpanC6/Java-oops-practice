@@ -524,3 +524,32 @@ Hello from Lambda Expression!
 
 ### Output:
 Even numbers, squares, sorted list and count printed successfully.
+
+## Day 19: Optional Class in Java
+
+### Concepts Covered:
+- Optional class introduction
+- Avoiding NullPointerException
+- Optional.of()
+- Optional.ofNullable()
+- Optional.empty()
+- isPresent()
+- ifPresent()
+- orElse()
+- orElseThrow()
+
+### Example:
+- Created a Student class
+- Wrapped objects using Optional
+- Handled null values safely
+- Used different Optional methods to access data
+
+### Key Learnings:
+- Optional is used to avoid null checks
+- It makes code clean and readable
+- Prevents NullPointerException
+- orElse provides default value
+- orElseThrow throws exception if value absent
+
+### Output:
+Program executed successfully with safe null handling using Optional class.
