@@ -566,7 +566,7 @@ Program executed successfully with safe null handling using Optional class.
 ### Key Learnings:
 - Optional prevents null-related runtime errors
 - Cleaner and safer code
-- Java Date-Time API is immutable and thread-safe
+- Java Date Time API is immutable and thread-safe
 - Used widely in real-world backend projects
 
 ### Output:
