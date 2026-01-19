@@ -553,3 +553,22 @@ Even numbers, squares, sorted list and count printed successfully.
 
 ### Output:
 Program executed successfully with safe null handling using Optional class.
+
+## Day 20: Optional & Date-Time API
+
+### Concepts Covered:
+- Optional class
+- Avoiding NullPointerException
+- LocalDate, LocalTime, LocalDateTime
+- DateTimeFormatter
+- Java 8 Date-Time API
+
+### Key Learnings:
+- Optional prevents null-related runtime errors
+- Cleaner and safer code
+- Java Date-Time API is immutable and thread-safe
+- Used widely in real-world backend projects
+
+### Output:
+- Optional values handled safely
+- Current date and time printed in formatted style
