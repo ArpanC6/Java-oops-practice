@@ -572,3 +572,23 @@ Program executed successfully with safe null handling using Optional class.
 ### Output:
 - Optional values handled safely
 - Current date and time printed in formatted style
+
+# Day 21: JDBC Basics (Concept Demonstration)
+
+## Purpose
+This module demonstrates how JDBC works in Java
+without establishing a real database connection.
+
+## Concepts Explained
+- JDBC Architecture
+- DriverManager & Connection
+- Statement & SQL execution
+- ResultSet processing
+
+## Why No Real DB?
+- Focus on understanding JDBC flow
+- Clean conceptual explanation
+- Easy to read for beginners and recruiters
+
+## SQL Example
+SELECT id, name, marks FROM students;
