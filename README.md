@@ -592,3 +592,22 @@ without establishing a real database connection.
 
 ### SQL Example
 SELECT id, name, marks FROM students;
+
+# Day 22: PreparedStatement & SQL Injection
+
+## Concepts Covered
+- SQL Injection
+- Problem with Statement
+- PreparedStatement basics
+- INSERT and UPDATE queries
+- Query parameterization
+
+## Key Learnings
+- Statement is unsafe for user input
+- PreparedStatement prevents SQL Injection
+- Uses placeholders (?)
+- Improves security and performance
+
+## SQL Examples
+INSERT INTO students (id, name, marks) VALUES (?, ?, ?);
+UPDATE students SET marks = ? WHERE id = ?;
