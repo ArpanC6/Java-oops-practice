@@ -611,3 +611,27 @@ SELECT id, name, marks FROM students;
 ## SQL Examples
 INSERT INTO students (id, name, marks) VALUES (?, ?, ?);
 UPDATE students SET marks = ? WHERE id = ?;
+
+# Day 23: JDBC CRUD Operations (A to Z)
+
+## Concepts Covered
+- CRUD operations
+- JDBC backend flow
+- PreparedStatement usage
+- INSERT, SELECT, UPDATE, DELETE
+
+## CRUD Meaning
+- Create  → INSERT
+- Read    → SELECT
+- Update  → UPDATE
+- Delete  → DELETE
+
+## Key Learnings
+- CRUD is backbone of backend development
+- PreparedStatement is used for all operations
+- JDBC CRUD is base of Spring Boot + JPA
+
+## Use Cases
+- Student management system
+- Admin dashboards
+- Backend APIs
