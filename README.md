@@ -635,3 +635,28 @@ UPDATE students SET marks = ? WHERE id = ?;
 - Student management system
 - Admin dashboards
 - Backend APIs
+
+# Day 24: JDBC Mini Project – Student Management System
+
+## Project Overview
+A conceptual JDBC-based backend mini project
+demonstrating real-world architecture.
+
+## Layers Used
+- Model
+- DAO
+- Service
+- Utility
+- Main Application
+
+## Features
+- Add student
+- View students
+- Update marks
+- Delete student
+
+## Key Learnings
+- DAO pattern
+- Layered architecture
+- JDBC CRUD flow
+- Foundation for Spring Boot & JPA
