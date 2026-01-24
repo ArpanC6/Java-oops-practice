@@ -660,3 +660,26 @@ demonstrating real-world architecture.
 - Layered architecture
 - JDBC CRUD flow
 - Foundation for Spring Boot & JPA
+
+# Day 25: DAO Pattern (A to Z)
+
+## What is DAO?
+DAO (Data Access Object) separates database logic
+from business logic.
+
+## Why DAO Pattern?
+- Clean code
+- Loose coupling
+- Easy testing
+- Easy migration (JDBC → Hibernate/JPA)
+
+## Layers
+- Model
+- DAO
+- Service
+- Controller (MainApp)
+
+## Interview Points
+- DAO hides DB implementation
+- Service handles business logic
+- Used in almost all enterprise apps
