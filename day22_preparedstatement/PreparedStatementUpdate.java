@@ -1,4 +1,4 @@
-package jdbc;
+package day22_preparedstatement;
 
 public class PreparedStatementUpdate {
 

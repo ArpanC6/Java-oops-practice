@@ -1,6 +1,6 @@
 package day24_jdbc_mini_project.model.util;
 
-package jdbc.util;
+package day24_jdbc_mini_project.model.util;
 
 public class DbUtil {
 

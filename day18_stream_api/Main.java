@@ -9,8 +9,8 @@ public class Main {
         // filter: even numbers
         System.out.println("Even Numbers:");
         numbers.stream()
-               .filter(n -> n % 2 == 0)
-               .forEach(System.out::println);
+              .filter(n -> n % 2 == 0)
+              .forEach(System.out::println);
 
         // map: square of numbers
         System.out.println("\nSquare of Numbers:");
