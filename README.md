@@ -683,3 +683,18 @@ from business logic.
 - DAO hides DB implementation
 - Service handles business logic
 - Used in almost all enterprise apps
+
+# Day 26: JDBC to Spring Boot Transition
+
+## Purpose
+Understand how JDBC-based backend architecture
+maps to Spring Boot.
+
+## Key Learnings
+- Why Spring Boot is used
+- Layer mapping from JDBC to Spring
+- Role of Controller, Service, Repository
+- Annotation-based backend development
+
+## Outcome
+Ready to start real Spring Boot development.
