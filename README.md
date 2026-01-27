@@ -715,3 +715,27 @@ Ready to start real Spring Boot development.
 
 ## Outcome
 Ready to build REST APIs using Spring Boot.
+
+# Day 28: REST API Design (Spring Boot)
+
+## Concepts Covered
+- REST architecture
+- HTTP methods
+- CRUD to REST mapping
+- Controller design
+- Request & Response handling
+
+## Endpoints Designed
+- GET /students
+- GET /students/{id}
+- POST /students
+- PUT /students/{id}
+- DELETE /students/{id}
+
+## Key Learnings
+- REST APIs are backbone of backend systems
+- Controller handles HTTP layer
+- Clean separation of layers
+
+## Outcome
+Ready to build real REST APIs using Spring Boot.
