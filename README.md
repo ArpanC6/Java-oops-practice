@@ -698,3 +698,20 @@ maps to Spring Boot.
 
 ## Outcome
 Ready to start real Spring Boot development.
+
+# Day 27: Spring Boot Core Annotations
+
+## Concepts Covered
+- Bootstrapping annotations
+- Entity & ORM annotations
+- Repository, Service, Controller
+- Request mapping annotations
+- Dependency Injection
+
+## Key Learnings
+- Annotations reduce boilerplate code
+- Layer-based annotations improve structure
+- Spring handles object creation automatically
+
+## Outcome
+Ready to build REST APIs using Spring Boot.
