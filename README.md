@@ -756,3 +756,17 @@ Ready to build real REST APIs using Spring Boot.
 
 ## Outcome
 Able to build robust, production-ready REST APIs.
+
+## Day 30: SOLID Principles in Java
+
+Concepts Covered:
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
+
+Key Learnings:
+- Clean and maintainable OOPS design
+- Real-world Java architecture basics
+- Important for backend & interviews
