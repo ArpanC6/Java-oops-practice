@@ -739,3 +739,20 @@ Ready to build REST APIs using Spring Boot.
 
 ## Outcome
 Ready to build real REST APIs using Spring Boot.
+
+# Day 29: Exception Handling in Spring Boot
+
+## Concepts Covered
+- Exception basics
+- Custom exceptions
+- Global exception handling
+- @ControllerAdvice
+- @ExceptionHandler
+
+## Key Learnings
+- Never expose stack trace to client
+- Use meaningful error messages
+- Centralized error handling is industry standard
+
+## Outcome
+Able to build robust, production-ready REST APIs.
