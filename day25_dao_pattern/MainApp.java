@@ -1,9 +1,5 @@
 package day25_dao_pattern;
 
-package jdbc;
-
-import jdbc.model.Student;
-import jdbc.service.StudentService;
 
 public class MainApp {
 

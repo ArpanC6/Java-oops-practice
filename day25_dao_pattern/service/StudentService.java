@@ -1,12 +1,9 @@
 package day25_dao_pattern.service;
 
-package jdbc.service;
-
-import jdbc.dao.StudentDao;
-import jdbc.dao.StudentDaoImpl;
-import jdbc.model.Student;
 
 import java.util.List;
+
+import jdbc.dao.StudentDao;
 
 public class StudentService {
 
