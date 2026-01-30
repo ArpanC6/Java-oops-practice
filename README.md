@@ -770,3 +770,15 @@ Key Learnings:
 - Clean and maintainable OOPS design
 - Real-world Java architecture basics
 - Important for backend & interviews
+
+## Day 31: Design Patterns in Java
+
+Patterns Covered:
+- Singleton Pattern
+- Factory Pattern
+
+Key Learnings:
+- Controlled object creation
+- Clean and scalable architecture
+- Widely used in backend frameworks like Spring
+- Improves maintainability and flexibility
