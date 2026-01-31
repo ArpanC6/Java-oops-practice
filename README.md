@@ -782,3 +782,16 @@ Key Learnings:
 - Clean and scalable architecture
 - Widely used in backend frameworks like Spring
 - Improves maintainability and flexibility
+
+## Day 32: Builder Design Pattern
+
+Concepts Covered:
+- Problem with telescoping constructors
+- Builder design pattern
+- Method chaining
+- Immutable object creation
+
+Key Learnings:
+- Clean object creation
+- Readable and maintainable code
+- Used in real-world Java APIs
