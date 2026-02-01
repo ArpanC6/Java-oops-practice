@@ -795,3 +795,16 @@ Key Learnings:
 - Clean object creation
 - Readable and maintainable code
 - Used in real-world Java APIs
+
+## Day 33: Java Memory Model (Stack vs Heap)
+
+Concepts Covered:
+- Stack memory
+- Heap memory
+- Object reference behavior
+- Garbage Collection basics
+
+Key Learnings:
+- How Java manages memory
+- Reference vs Object difference
+- Interview-level JVM understanding
