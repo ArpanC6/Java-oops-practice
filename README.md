@@ -808,3 +808,16 @@ Key Learnings:
 - How Java manages memory
 - Reference vs Object difference
 - Interview-level JVM understanding
+
+## Day 34: Java Garbage Collection
+
+Concepts Covered:
+- Garbage Collection basics
+- GC types
+- finalize() method
+- Memory leaks
+
+Key Learnings:
+- JVM memory cleanup
+- How objects become eligible for GC
+- Real-world GC issues
