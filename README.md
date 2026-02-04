@@ -821,3 +821,17 @@ Key Learnings:
 - JVM memory cleanup
 - How objects become eligible for GC
 - Real-world GC issues
+
+## Day 35: Java Multithreading
+
+Covered Topics:
+- Thread creation
+- Runnable interface
+- Thread lifecycle
+- Synchronization
+- Race condition
+
+Key Focus:
+- Backend performance
+- Thread safety
+- Interview readiness
