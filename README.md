@@ -835,3 +835,16 @@ Key Focus:
 - Backend performance
 - Thread safety
 - Interview readiness
+
+## Day 36: Advanced Multithreading
+
+Concepts Covered:
+- wait() and notify()
+- Producer-Consumer problem
+- Deadlock
+- Deadlock prevention
+
+Key Learnings:
+- Thread communication
+- Safe concurrency
+- Backend synchronization patterns
