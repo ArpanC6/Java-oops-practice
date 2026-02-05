@@ -848,3 +848,15 @@ Key Learnings:
 - Thread communication
 - Safe concurrency
 - Backend synchronization patterns
+
+## Day 37: Executor Framework & Thread Pool
+
+Concepts Covered:
+- ExecutorService
+- Single & Fixed thread pool
+- Callable and Future
+
+Key Learnings:
+- Efficient thread management
+- Backend-style concurrency
+- Performance optimization
