@@ -860,3 +860,16 @@ Key Learnings:
 - Efficient thread management
 - Backend-style concurrency
 - Performance optimization
+
+## Day 38: CompletableFuture in Java
+
+Concepts Covered:
+- Async programming
+- CompletableFuture basics
+- thenApply, thenAccept
+- thenCombine
+
+Key Learnings:
+- Non-blocking execution
+- Backend async design
+- Performance improvement
