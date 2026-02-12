@@ -890,3 +890,22 @@ Examples demonstrate safe data access using built-in thread-safe collection clas
 - ConcurrentHashMapDemo.java
 - CopyOnWriteArrayListDemo.java
 - BlockingQueueDemo.java
+
+# Day 40 – ForkJoin Framework & Parallel Streams
+
+## Topics Covered
+- Fork/Join Framework
+- RecursiveTask
+- Parallel Streams
+
+## Description
+This day focuses on parallel computation in Java.
+Fork/Join is used for dividing large tasks into smaller subtasks.
+Parallel Streams demonstrate multi-core processing using streams.
+
+## Files
+- ForkJoinSumTask.java
+- ParallelStreamDemo.java
+
+## Status
+Day 40 Completed
