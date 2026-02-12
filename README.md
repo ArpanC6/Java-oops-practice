@@ -873,3 +873,20 @@ Key Learnings:
 - Non-blocking execution
 - Backend async design
 - Performance improvement
+
+# Day 39 – Concurrent Collections in Java
+
+## Topics Covered
+- ConcurrentHashMap
+- CopyOnWriteArrayList
+- BlockingQueue
+- Thread-safe collections
+
+## Description
+This day focuses on Java Concurrent Collections used in multithreaded environments.  
+Examples demonstrate safe data access using built-in thread-safe collection classes.
+
+## Files
+- ConcurrentHashMapDemo.java
+- CopyOnWriteArrayListDemo.java
+- BlockingQueueDemo.java
