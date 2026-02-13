@@ -909,3 +909,24 @@ Parallel Streams demonstrate multi-core processing using streams.
 
 ## Status
 Day 40 Completed
+
+# Day 41 – Executor Framework & Thread Pool
+
+## Topics Covered
+- ExecutorService
+- Thread Pool
+- Runnable
+- Callable
+- Future
+
+## Description
+This day focuses on professional multithreading using Executor Framework.
+Thread pools manage multiple tasks efficiently without manual thread creation.
+
+## Files
+- SimpleTask.java
+- ExecutorServiceDemo.java
+- CallableFutureDemo.java
+
+## Status
+Day 41 Completed
