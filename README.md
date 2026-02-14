@@ -930,3 +930,24 @@ Thread pools manage multiple tasks efficiently without manual thread creation.
 
 ## Status
 Day 41 Completed
+
+# Day 42 – CompletableFuture & Asynchronous Programming
+
+## Topics Covered
+- CompletableFuture
+- runAsync()
+- supplyAsync()
+- thenApply()
+- thenAccept()
+
+## Description
+This day focuses on asynchronous and non-blocking programming in Java.
+CompletableFuture allows better performance and scalability in backend systems.
+
+## Files
+- SimpleAsyncDemo.java
+- SupplyAsyncDemo.java
+- ThenApplyThenAcceptDemo.java
+
+## Status
+Day 42 Completed
