@@ -951,3 +951,23 @@ CompletableFuture allows better performance and scalability in backend systems.
 
 ## Status
 Day 42 Completed
+
+# Day 43 – Java Logging & Debugging
+
+## Topics Covered
+- Java Logging
+- Log Levels
+- Exception Logging
+- Debugging Best Practices
+
+## Description
+This day focuses on professional logging and debugging techniques in Java.
+Logging helps track application flow and errors in production systems.
+
+## Files
+- SimpleLoggerDemo.java
+- LogLevelDemo.java
+- ExceptionLoggingDemo.java
+
+## Status
+Day 43 Completed
