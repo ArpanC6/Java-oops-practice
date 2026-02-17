@@ -991,7 +991,7 @@ Today I learned and practiced the basics of Spring Boot.
 
 ## How to Run
 ```bash
-./mvnw spring-boot:run
+./mvnw spring-boot:run 
 
 # Day 45 – Spring Boot Basic Setup
 
