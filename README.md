@@ -971,3 +971,24 @@ Logging helps track application flow and errors in production systems.
 
 ## Status
 Day 43 Completed
+
+# Day 44 – Spring Boot Basics
+
+Today I learned and practiced the basics of Spring Boot.
+
+## Topics Covered
+- What is Spring Boot
+- Spring Boot project structure
+- @SpringBootApplication annotation
+- Embedded Tomcat server
+- Running Spring Boot using Maven Wrapper
+
+## Project Structure
+- src/main/java
+- src/main/resources
+- pom.xml
+- mvnw / mvnw.cmd
+
+## How to Run
+```bash
+./mvnw spring-boot:run
