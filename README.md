@@ -992,3 +992,30 @@ Today I learned and practiced the basics of Spring Boot.
 ## How to Run
 ```bash
 ./mvnw spring-boot:run
+
+# Day 45 – Spring Boot Basic Setup
+
+Today I created a fresh Spring Boot project using Spring Initializr and learned
+how to properly run a Spring Boot application.
+
+## What I Learned
+- Spring Boot cannot be run like a normal Java program
+- Maven is required to manage dependencies
+- Proper project structure is mandatory
+- @SpringBootApplication is the main entry point
+- Creating basic REST APIs using @RestController
+- Running Spring Boot using Maven Wrapper
+
+## What I Implemented
+- Created a Spring Boot application class
+- Created a basic REST controller
+- Tested REST APIs in the browser
+
+## Project Details
+- Spring Boot Version: 3.5.10
+- Java Version: 17
+- Build Tool: Maven
+
+## Run Command
+```bash
+mvnw.cmd spring-boot:run
