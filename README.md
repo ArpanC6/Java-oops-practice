@@ -990,7 +990,7 @@ Today I learned and practiced the basics of Spring Boot.
 - mvnw / mvnw.cmd
 
 ## How to Run
-```bash
+bash
 ./mvnw spring-boot:run 
 
 # Day 45 – Spring Boot Basic Setup
@@ -1017,5 +1017,44 @@ how to properly run a Spring Boot application.
 - Build Tool: Maven
 
 ## Run Command
-```bash
+bash
 mvnw.cmd spring-boot:run
+
+# Day 46 – Spring Boot REST API (GET & POST)
+
+Today I learned how to build REST APIs using Spring Boot.
+
+## Concepts Learned
+- REST API basics
+- @RestController
+- @GetMapping
+- @PostMapping
+- @RequestBody
+- JSON to Java Object mapping
+
+## What I Built
+- GET API to test server
+- POST API to accept JSON data
+- Student model class
+
+## Technologies Used
+- Spring Boot 3.5.10
+- Java 17
+- Maven
+- Spring Web
+
+## API Endpoints
+
+### GET
+http://localhost:8080/student/hello
+
+### POST
+http://localhost:8080/student/add
+
+Sample JSON:
+```json
+{
+  "id": 1,
+  "name": "Arpan",
+  "age": 22
+}
