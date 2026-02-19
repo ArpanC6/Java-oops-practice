@@ -1052,9 +1052,38 @@ http://localhost:8080/student/hello
 http://localhost:8080/student/add
 
 Sample JSON:
-```json
+json
 {
   "id": 1,
   "name": "Arpan",
   "age": 22
 }
+
+# Day 47 – Spring Boot Basics
+
+Today I started learning Spring Boot.
+
+In this project, I created a basic Spring Boot application and ran it using IntelliJ IDEA.
+
+---
+
+## What I learned today
+- How to create a Spring Boot project
+- Understanding `@SpringBootApplication`
+- Basic project structure in Spring Boot
+- Controller and Model separation
+- Embedded Tomcat server
+- Application runs on port 8080
+- Running Spring Boot using IntelliJ IDEA
+
+---
+
+## Technologies Used
+- Java 17
+- Spring Boot
+- Maven
+- IntelliJ IDEA
+
+---
+
+## Project Structure
